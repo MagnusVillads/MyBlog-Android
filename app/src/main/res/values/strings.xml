@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">My Blog</string>
+    <string name="titel">Glem Det</string>
+    <string name="subtitel">Jeg Har Opfundet Det</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="remeberme">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="create_account">No Account Yet? Create One</string>
+    <string name="cb_Terms">I Accept Terms</string>
+    <string name="terms">Terms And Conditions</string>
+    <string name="name">Name</string>
 </resources>
+
